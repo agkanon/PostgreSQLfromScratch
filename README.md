@@ -1,6 +1,6 @@
 # PostgreSQLfromScratch
 
-## Deploy PostgreSQL by Creating Configuration from Scratch
+## Deploy PostgreSQL by Creating Configuration from Scratch in kubernetes cluster.
 
 Manual configuration of Postgres on Kubernetes allows you to fine-tune your deployment configuration.
 
