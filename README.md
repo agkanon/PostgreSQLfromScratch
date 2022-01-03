@@ -10,7 +10,7 @@ The ConfigMap resource contains the data that is used during the deployment proc
 ## Step 2: Create and Apply Persistent Storage Volume and Persistent Volume Claim
 Apply the resources with kubectl, The system confirms the successful creation of both PV and PVC.
 Check that the PVC is connected to the PV with the following command:
-    ## kubectl get pvc
+   ## kubectl get pvc
 The status of the PVC is Bound, and the PVC is ready to be used in the PostgreSQL deployment.
 
 ## Step 3: Create and Apply PostgreSQL Deployment
